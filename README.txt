@@ -1,1 +1,0 @@
-AI Content Generator Hub — Router-ready Dark Theme\n\nDeploy on Vercel: upload repo, set OPENAI_API_KEY, deploy.\n
