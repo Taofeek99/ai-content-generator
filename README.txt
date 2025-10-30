@@ -1,10 +1,12 @@
 # AI Content Generator Hub
 
-## Deploy Guide (Phone Friendly)
+## ✅ Deploy on Vercel (Mobile-Friendly)
 1. Upload this folder to GitHub.
-2. Connect to [Vercel.com](https://vercel.com).
-3. Add environment variable OPENAI_API_KEY in Vercel Settings.
-4. Deploy and enjoy your live app!
+2. Go to [Vercel.com](https://vercel.com) → Import your repo.
+3. Framework Preset: **React**
+4. Add environment variable:
+   - Name: OPENAI_API_KEY
+   - Value: your key from https://platform.openai.com/api-keys
+5. Click **Deploy** 🚀
 
-Frontend in /frontend/src/App.jsx
-Serverless API in /api/generate.js
+App will be live with both frontend and API ready!
